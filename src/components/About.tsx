@@ -44,7 +44,7 @@ const About: React.FC = () => {
           <img
             className="object-cover object-center rounded-md"
             alt="Justice Dreischor profile picture"
-            src="./assets/images/profile-pic-2.jpg"
+            src="./assets/images/profile-pic-4.jpg"
           />
         </div>
       </div>
