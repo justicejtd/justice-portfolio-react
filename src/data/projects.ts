@@ -11,7 +11,7 @@ export const projects = [
     title: "DTT Real Estate",
     subtitle: "Android App",
     description: "This Real Estate app can be used to find houses that are for sale and track their location using GPS and Google Maps. The app was specifically made for a traineeship assessment at DTT. It was implemented using clean architecture patterns and technologies such as Retrofit for API calls, Dagger Hilt for Dependency Injection and Room for local database. ",
-    image: "https://firebasestorage.googleapis.com/v0/b/justice-dreischor-portfolio.appspot.com/o/dtt-real-estate.gif?alt=media&token=098983c5-aba4-4b7a-82a2-fe78f3774551",
+    image: "./assets/gifs/dtt-real-estate.gif",
     link: "https://github.com/justicejtd/dtt_houses",
   },
   {
