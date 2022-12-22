@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Android App",
     description:
       "This app was created to facilitate the pre- and boarding process to help companies and hires to get to know each other in the form of a chat conversation. The app was developed in 2022 for LiveWall using the latest Android UI toolkit Jetpack Compose, one of the most scalable, testable, and maintainable architecture MVVM and designed using the latest Material 3 guidelines. It is implemented in such a way that it can be re-configurable, white labeled and modular for any type of company.",
-    image: "public/assets/gifs/pre-and-onboarding.gif",
+    image: "assets/gifs/pre-and-onboarding.gif",
     link: "https://github.com/justicejtd/pre-and-on-boarding-android-app.git",
   },
   {
