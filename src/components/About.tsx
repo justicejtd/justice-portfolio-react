@@ -7,23 +7,23 @@ const About: React.FC = () => {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Welcome 😃, I'm Justice.
-            <br className="hidden lg:inline-block" /> I eat, sleep and build high quality apps 👀.
+            <br className="hidden lg:inline-block" /> I eat, sleep and build
+            high quality apps 👀.
           </h1>
           <p className="mb-8 leading-relaxed">
             I am a software engineer specialized in Mobile development.
             Developing software applications is something that I am enthusiastic
             about, especially when it comes to building mobile apps. I have
-            experience in building Android and cross platform applications. For
-            example, I have built and worked on a HR onboarding chatbot,
-            maintenance app for agriculture measuring devices, Global Talk Care
-            App and Slam Fm Radio app. Each of these apps were developed with
-            one of the following technologies: React Native, Kotlin or Flutter.
-            My ambition as a developer is to strive for quality over quantity by
-            following best code practices and architecture patterns like MVVM,
-            DI and state management. I also look forward to further improving my
-            development skills by following software development processes like
-            Test Driven Development. In my spare time, I focus on my training
-            for Track and Field, which I specialized in eight hundred meters.
+            experience in building Android and Cross Platform apps in varied
+            fields using industry standard technologies such as React Native,
+            TypeScript, Kotlin and Flutter. I have worked on big projects such
+            as the Global Talk Care and Slam Fm App. My ambition as a developer
+            is to strive for quality over quantity by following best code
+            practices and architecture patterns like MVVM, DI and state
+            management. I also look forward to further improving my development
+            skills by following software development processes like Test Driven
+            Development. In my spare time, I focus on my training for Track and
+            Field, which I specialized in eight hundred meters.
           </p>
           <div className="flex justify-center">
             <a
