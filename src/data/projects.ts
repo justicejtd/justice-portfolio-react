@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Android App",
     description:
       "This app was created to facilitate the pre- and boarding process to help companies and hires to get to know each other in the form of a chat conversation. The app was developed in 2022 for LiveWall using the latest Android UI toolkit Jetpack Compose, one of the most scalable, testable, and maintainable architecture MVVM and designed using the latest Material 3 guidelines. It is implemented in such a way that it can be re-configurable, white labeled and modular for any type of company.",
-    image: "https://firebasestorage.googleapis.com/v0/b/justice-dreischor-portfolio.appspot.com/o/pre-and-onboarding.gif?alt=media&token=af82daac-fa7d-40fa-8b69-7983da7fae2b",
+    image: "./assets/gifs/pre-and-onboarding.gif",
     link: "https://github.com/justicejtd/pre-and-on-boarding-android-app.git",
   },
   {
@@ -26,7 +26,7 @@ export const projects = [
     title: "Global Talk Care (Made by LiveWall)",
     subtitle: "React Native App",
     description: "The Global Talk Care is a type of a translation app that helps Dutch healthcare professionals communicate better with non-Dutch speaking patients. The patients can find their questions and answer them in their own language while it can be translated to Dutch. My job in this project was to add new features based on the client requirements.",
-    image: "./assets/gifs/slam-fm.gif",
+    image: "./assets/gifs/global-talk-care.gif",
     link:
       "https://play.google.com/store/apps/details?id=nl.globaltalk.care&hl=nl",
   },
@@ -34,28 +34,28 @@ export const projects = [
     title: "Spotify Clone",
     subtitle: "React Native App",
     description: "During my traineeship at LiveWall I have built a Spotify clone demo app in order to demonstrate my learning results of the fundamentals of React Native, Redux, Redux Toolkit, RTK Query and custom components using Atomic Design. This app manages your favorite songs and controls your current playing song.",
-    image: "https://firebasestorage.googleapis.com/v0/b/justice-dreischor-portfolio.appspot.com/o/spotify-clone.gif?alt=media&token=4e36e283-999d-4793-b3c3-0bf4ef7d7f0e",
+    image: "./assets/gifs/spotify-clone.gif",
     link: "https://github.com/justicejtd/react-native-spotify-app",
   },
   {
     title: "PartiRecept",
     subtitle: "Flutter App",
     description: "This app was created during the final phase project of my study along with other university colleagues. The concept behind this app is to connect people from different backgrounds that live or work at Kruistraat Eindhoven by sharing and finding nearby food recipes.",
-    image: "https://firebasestorage.googleapis.com/v0/b/justice-dreischor-portfolio.appspot.com/o/parti-recept.gif?alt=media&token=44f731ab-6ba7-4c6e-897e-dea1703965bb",
+    image: "./assets/gifs/parti-recept.gif",
     link: "https://github.com/justicejtd/parti-recept",
   },
   {
     title: "Storycise",
     subtitle: "iOS App",
     description: "Storycise is an exercise game app based on multiple immersive stories using audio and sensors from the Apple Watch. This app was created during my specialization along with my university colleagues.",
-    image: "https://firebasestorage.googleapis.com/v0/b/justice-dreischor-portfolio.appspot.com/o/storycise.gif?alt=media&token=b9419c7f-243f-45c4-909e-f14c67c4f54e",
+    image: "./assets/gifs/storycise.gif",
     link: "https://github.com/justicejtd/Storycise_iOS",
   },
   {
     title: "Conveyor Belt Simulator",
     subtitle: "C# App",
     description: "This conveyor belt simulator uses the Dijkstra Algorithm to simulate and find the shortest path a passenger baggage can take. This app was created using C# and XAML during my study core phase project along with other university colleagues.",
-    image: "https://firebasestorage.googleapis.com/v0/b/justice-dreischor-portfolio.appspot.com/o/conveyor-belt-simulator.gif?alt=media&token=b9a8f659-a297-4646-89f2-c8ce6fde2ce9",
+    image: "./assets/gifs/conveyor-belt-simulator.gif",
     link: "https://github.com/justicejtd/Conveyor_Belt_Simulator",
   },
 ];
