@@ -18,7 +18,7 @@ export const projects = [
     title: "Slam FM (Made by LiveWall)",
     subtitle: "Android App",
     description: "This radio app was created by LiveWall for Slam FM radio station but during my traineeship at LiveWall my job was to track down and fix any bugs, crashes, and stability issues. One of my biggest challenge I faced so far came from this project, I had to come up with a solution to restart the streaming service from the notification bar after the app was killed.",
-    image: "https://firebasestorage.googleapis.com/v0/b/justice-dreischor-portfolio.appspot.com/o/slam-fm.gif?alt=media&token=98fdae0e-799e-481c-ab1c-0f8dd5ec614c",
+    image: "./assets/gifs/slam-fm.gif",
     link:
       "https://play.google.com/store/apps/details?id=com.nakko.android.slamfm&hl=nl",
   },
@@ -26,7 +26,7 @@ export const projects = [
     title: "Global Talk Care (Made by LiveWall)",
     subtitle: "React Native App",
     description: "The Global Talk Care is a type of a translation app that helps Dutch healthcare professionals communicate better with non-Dutch speaking patients. The patients can find their questions and answer them in their own language while it can be translated to Dutch. My job in this project was to add new features based on the client requirements.",
-    image: "https://firebasestorage.googleapis.com/v0/b/justice-dreischor-portfolio.appspot.com/o/global-talk-care.gif?alt=media&token=2b64cda9-b8e1-4385-b705-9e75f43bb6c4",
+    image: "./assets/gifs/slam-fm.gif",
     link:
       "https://play.google.com/store/apps/details?id=nl.globaltalk.care&hl=nl",
   },
