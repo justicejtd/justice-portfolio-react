@@ -14,10 +14,10 @@ const ProjectContent = (props: any) => {
   const renderContent = () => {
     if (isImageVisible) {
       return (
-        <div className="px-8 py-10 relative h-full w-full border-4 border-gray-800 bg-gray-900">
+        <div className="px-8 py-10 relative h-full w-full border-4 border-gray-800 bg-gray-900 items-center">
           <img
             alt="gallery"
-            className="flex flex-1"
+            className="flex flex-1 m-auto"
             src={props.project.image}
             onMouseEnter={onMouseImageEnter}
             style={{ zIndex: isImageVisible ? 0 : -1000 }}

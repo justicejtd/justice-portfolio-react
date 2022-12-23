@@ -94,7 +94,7 @@ export const testimonials = [
     quote:"Justice is a very independent colleague who works precisely. He thinks critically and works with the team to come to a good solution for the problem at hand.",
     image: "./assets/images/man-avatar-placeholder.png",
     name: "Remy Baratte",
-    role: "Project Manage",
+    role: "Mobile developer",
     company: "LiveWall",
     email: "remy@livewallgroup.com",
     phone: "+31 6 36205361",
