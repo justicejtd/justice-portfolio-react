@@ -2,7 +2,7 @@ import React from "react";
 import "./index.css";
 import About from "./components/About";
 import Navbar from "./components/Navbar";
-import Projects from "./components/Projects";
+import Projects from "./components/project/Projects";
 import Skills from "./components/Skills";
 import Testimonials from "./components/Testimonials";
 import Contact from "./components/Contact.js";
