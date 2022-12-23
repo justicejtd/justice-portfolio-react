@@ -1,20 +1,5 @@
 export const projects = [
   {
-    title: "Pre- and Onboarding HR chat",
-    subtitle: "Android App",
-    description:
-      "This app was created to facilitate the pre- and boarding process to help companies and hires to get to know each other in the form of a chat conversation. The app was developed in 2022 for LiveWall using the latest Android UI toolkit Jetpack Compose, one of the most scalable, testable, and maintainable architecture MVVM and designed using the latest Material 3 guidelines. It is implemented in such a way that it can be re-configurable, white labeled and modular for any type of company.",
-    image: "assets/gifs/pre-and-onboarding.gif",
-    link: "https://github.com/justicejtd/pre-and-on-boarding-android-app.git",
-  },
-  {
-    title: "DTT Real Estate",
-    subtitle: "Android App",
-    description: "This Real Estate app can be used to find houses that are for sale and track their location using GPS and Google Maps. The app was specifically made for a traineeship assessment at DTT. It was implemented using clean architecture patterns and technologies such as Retrofit for API calls, Dagger Hilt for Dependency Injection and Room for local database. ",
-    image: "./assets/gifs/dtt-real-estate.gif",
-    link: "https://github.com/justicejtd/dtt_houses",
-  },
-  {
     title: "Slam FM (Made by LiveWall)",
     subtitle: "Android App",
     description: "This radio app was created by LiveWall for Slam FM radio station but during my traineeship at LiveWall my job was to track down and fix any bugs, crashes, and stability issues. One of my biggest challenge I faced so far came from this project, I had to come up with a solution to restart the streaming service from the notification bar after the app was killed.",
@@ -29,6 +14,21 @@ export const projects = [
     image: "./assets/gifs/global-talk-care.gif",
     link:
       "https://play.google.com/store/apps/details?id=nl.globaltalk.care&hl=nl",
+  },
+  {
+    title: "DTT Real Estate",
+    subtitle: "Android App",
+    description: "This Real Estate app can be used to find houses that are for sale and track their location using GPS and Google Maps. The app was specifically made for a traineeship assessment at DTT. It was implemented using clean architecture patterns and technologies such as Retrofit for API calls, Dagger Hilt for Dependency Injection and Room for local database. ",
+    image: "./assets/gifs/dtt-real-estate.gif",
+    link: "https://github.com/justicejtd/dtt_houses",
+  },
+  {
+    title: "Pre- and Onboarding HR chat",
+    subtitle: "Android App",
+    description:
+      "This app was created to facilitate the pre- and boarding process to help companies and hires to get to know each other in the form of a chat conversation. The app was developed in 2022 for LiveWall using the latest Android UI toolkit Jetpack Compose, one of the most scalable, testable, and maintainable architecture MVVM and designed using the latest Material 3 guidelines. It is implemented in such a way that it can be re-configurable, white labeled and modular for any type of company.",
+    image: "assets/gifs/pre-and-onboarding.gif",
+    link: "https://github.com/justicejtd/pre-and-on-boarding-android-app.git",
   },
   {
     title: "Spotify Clone",
@@ -88,7 +88,7 @@ export const testimonials = [
     role: "Project Manager",
     company: "LiveWall",
     email: "matthijsblanck@livewallgroup.com",
-    phone: "+31 6 28177230",
+    phone: "",
   },
   {
     quote:"Justice is a very independent colleague who works precisely. He thinks critically and works with the team to come to a good solution for the problem at hand.",
